@@ -1,0 +1,38 @@
+Objective:
+                The Objective of the project is to make IOT based intelligent trafic management system.
+
+Synopsis:
+              All metropolitan cities face traffic congestion problems especially in the downtown areas. Normal cities can be transformed into “smart cities” by exploiting the information and communication technologies (ICT). The paradigm of Internet of Thing (IOT) can play an important role in realization of smart cities. This paper proposes an IOT based traffic management solutions for smart cities and to coordinate with ambulance driver to find the signal status and choose the path  where traffic flow can be dynamically controlled and traffic violations are been identified by onsite traffic officers through centrally monitored or controlled through Internet. However the scheme proposed is general and can be used in any Metropolitan city without the loss of generality. If any ambulance will come on a signal then it will shows the green path for that ambulance and rest of paths are red.
+
+Existing System:
+It is Difficult to identify the Traffic Violators.
+There is no IOT based Traffic management System.
+Proposed System:
+IOT based traffic management
+Easy to find the path for emergency condition in ambulance.
+The Traffic violators are captured and send to Police.
+Advantages:
+Can be used anywhere
+No need of human power to identify violators during night.
+System Architecture :
+                                                      SYSTEM ARCHITECTURE FOR IOT BASED INTELLIGENT TRAFFIC MANAGEMENT SYSTEM
+
+                     
+
+Iot based intelligent traffic management system
+
+Iot based intelligent traffic management system
+
+Hardware and Software Specification:
+Hardware Requirement:
+
+Internet Connection
+1 GB/2GB RAM
+8 GB Disk
+Above 1.2 GHz Processor
+Camera
+IR sensor
+Software Requirement:
+
+OS                  -           Raspbian
+Language        -           python
